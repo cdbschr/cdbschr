@@ -23,10 +23,10 @@
 
 <p align="left">
   <a href="https://twitter.com/c_dbschr" target="_blank">
-    <img align="center" src="./img/Social/twitter.svg" alt="cdbschr" height="30" width="40" />
+    <img align="center" src="./img/twitter.svg" alt="cdbschr" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/cdbschr/" target="_blank">
-    <img align="center" src="./img/Social/linked-in-alt.svg" alt="cdbschr" height="30" width="40" />
+    <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr" height="30" width="40" />
   </a>
 </p>
 
