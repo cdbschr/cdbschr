@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=cdbschr&label=Vues%20du%20Profil&color=0e75b6&style=flat" alt="cdbschr"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=16&duration=4000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;20+mars+2022+au+17+mai+2022">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=16&duration=3000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;20+mars+2022+au+17+mai+2022">
 
 <p>
   <img align="right" src="./img/anim_dev.gif" alt="cdbschr"/>
@@ -22,9 +22,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Me retrouver
 
 <p align="left">
-  <a href="https://twitter.com/c_dbschr" target="_blank">
-    <img align="center" src="./img/twitter.svg" alt="cdbschr" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/cdbschr/" target="_blank">
     <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr" height="30" width="40" />
   </a>
