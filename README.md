@@ -23,7 +23,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cdbschr/" target="_blank">
-    <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr" height="30" width="40" />
+    <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr linkedin" height="30" width="40" />
+  </a>
+  <a href="https://camilledebusscher.tech" target="_blank">
+    <img align="center" src="./img/web.svg" alt="cdbschr website" height="30" width="40" />
   </a>
 </p>
 
