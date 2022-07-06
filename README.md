@@ -63,7 +63,7 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-430098.svg?logo=Discord&logoColor=white"></a>
     <a href="#"><img alt="Adobe%20Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FE7A16.svg?logo=Adobe%20Illustrator&logoColor=white"></a>
     <a href="#"><img alt="Adobe%20Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-0078d7.svg?logo=Adobe%20Photoshop&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
 </p>
 
 <img src="./img/line.gif"></a>
