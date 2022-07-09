@@ -7,8 +7,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=16&duration=3000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;20+mars+2022+au+17+mai+2022">
 
-<p align=right>
-  <script src="https://unpkg.com/@lottiefiles/lottie-interactivity@latest/dist/lottie-interactivity.min.js"></script>
+<p>
+  <img align="right" src="./img/anim_dev.gif" alt="cdbschr"/>
 </p>
 
 - 29 ans
