@@ -73,10 +73,10 @@
   <b>💻 Stats Profil GitHub</b>
 </summary>
 <br/>
-<p align="right">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cdbschr Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdbschr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdbschr&langs_count=5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cdbschr" height="192px"/>
 </p>
 
@@ -87,5 +87,3 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cdbschr&rank=-C,-B,-?&layout=compact&theme=algolia" alt="cdbschr" /></a> </p>
 
 <img src="./img/line.gif"></a>
-
-##
