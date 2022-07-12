@@ -62,7 +62,6 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-430098.svg?logo=Discord&logoColor=white"></a>
     <a href="#"><img alt="Adobe%20Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FE7A16.svg?logo=Adobe%20Illustrator&logoColor=white"></a>
-    <a href="#"><img alt="Adobe%20Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-0078d7.svg?logo=Adobe%20Photoshop&logoColor=white"></a>
     <!-- <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
 </p>
 
@@ -70,30 +69,18 @@
 
 ## 🔥 Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdbschr&theme=algolia" alt="cdbschr"/>
-</p>
-
-<img src="./img/line.gif"></a>
-
 <summary>
   <b>💻 Stats Profil GitHub</b>
 </summary>
 <br/>
-<p align="center">
+<p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cdbschr Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdbschr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-&nbsp;
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdbschr&langs_count=5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cdbschr" height="192px"/>
 </p>
 
 <img src="./img/line.gif"></a>
-
-  <summary><b>⚡ Recentes Activités GitHub</b></summary>
-  
-   <a href="https://github.com/cdbschr"><img alt="cdbschr Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cdbschr&custom_title=cdbschr's%20Contribution%20Graph&theme=react-dark" /></a>
-   
-   <img src="./img/line.gif"></a>
 
 ## :trophy: Trophées Profil Github
 
