@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=cdbschr&label=Vues%20du%20Profil&color=0e75b6&style=flat" alt="cdbschr"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=16&duration=3000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;20+mars+2022+au+17+mai+2022">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=20&duration=3000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;20+mars+2022+au+17+mai+2022">
 
 <p>
   <img align="right" src="./img/anim_dev.gif" alt="cdbschr"/>
@@ -69,19 +69,10 @@
 
 ## 🔥 Stats
 
-<summary>
-  <b>💻 Stats Profil GitHub</b>
-</summary>
 <br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cdbschr Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdbschr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdbschr&langs_count=5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cdbschr" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdbschr&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cdbschr" height="192px"/>
 </p>
-
-<img src="./img/line.gif"></a>
-
-## :trophy: Trophées Profil Github
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cdbschr&rank=-C,-B,-?&layout=compact&theme=algolia" alt="cdbschr" /></a></p>
