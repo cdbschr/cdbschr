@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Me retrouver
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cdbschr/" target="_blank">
+  <a href="https://www.linkedin.com/in/camilledebusscher/" target="_blank">
     <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr linkedin" height="30" width="40" />
   </a>
   <a href="https://camilledebusscher.tech" target="_blank">
