@@ -62,17 +62,4 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-430098.svg?logo=Discord&logoColor=white"></a>
     <a href="#"><img alt="Adobe%20Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FE7A16.svg?logo=Adobe%20Illustrator&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
-</p>
-
-<img src="./img/line.gif"></a>
-
-## 🔥 Stats
-
-<br/>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="cdbschr Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdbschr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdbschr&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cdbschr" height="192px"/>
 </p>
