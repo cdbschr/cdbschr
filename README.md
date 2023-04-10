@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=cdbschr&label=Vues%20du%20Profil&color=0e75b6&style=flat" alt="cdbschr"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=20&duration=3000&color=8256F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=D%C3%A9veloppeur+%C3%A9tudiant+recherchant+un+stage;+pour+la+p%C3%A9riode+du+;3+avril+2023+au+2+juin+2023">
-
 <p>
   <img align="right" src="./img/anim_dev.gif" alt="cdbschr"/>
 </p>
