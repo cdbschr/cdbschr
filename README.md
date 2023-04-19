@@ -1,5 +1,4 @@
 <h1 align="center">Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Je suis étudiant pour devenir <strong>développeur web fullstack</strong></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=cdbschr&label=Vues%20du%20Profil&color=0e75b6&style=flat" alt="cdbschr"/>
