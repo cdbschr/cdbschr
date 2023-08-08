@@ -8,9 +8,9 @@
   <img align="right" src="./img/anim_dev.gif" alt="cdbschr"/>
 </p>
 
-- 29 ans
+- 30 ans
 - 2021-2023
-- En cours : **Concepteur Développeur d'Applications**
+- Concepteur Développeur d'Applications
 - Kercode - Développeur Intégrateur d'Applications Web
 - Greta, Vannes
 
