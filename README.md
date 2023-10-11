@@ -9,10 +9,9 @@
 </p>
 
 - 30 ans
-- 2021-2023
-- Concepteur Développeur d'Applications
-- Kercode - Développeur Intégrateur d'Applications Web
-- Greta, Vannes
+- MGDIS 2023 - 
+- Concepteur Développeur d'Applications 2022 - 2023
+- Kercode - Développeur Intégrateur d'Applications Web 2021 - 2022
 
 ##
 
