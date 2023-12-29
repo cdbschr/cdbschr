@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/camilledebusscher/" target="_blank">
     <img align="center" src="./img/linked-in-alt.svg" alt="cdbschr linkedin" height="30" width="40" />
   </a>
-  <a href="https://camilledebusscher.tech" target="_blank">
+  <a href="https://camilledebusscher.fr" target="_blank">
     <img align="center" src="./img/web.svg" alt="cdbschr website" height="30" width="40" />
   </a>
 </p>
