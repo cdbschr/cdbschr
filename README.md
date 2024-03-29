@@ -9,7 +9,7 @@
 </p>
 
 - 30 ans
-- MGDIS 2023 - 
+- MGDIS 2023 - currently
 - Concepteur Développeur d'Applications 2022 - 2023
 - Kercode - Développeur Intégrateur d'Applications Web 2021 - 2022
 
